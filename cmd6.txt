@@ -1,0 +1,5 @@
+if we forget about commands we use these commands to rectify that
+
+$git command -help (show all the available option for selected command)
+
+$git help --all (show all available commands)
