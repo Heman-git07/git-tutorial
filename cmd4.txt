@@ -1,0 +1,16 @@
+to add file,which is created on current working directory,to commit that in locol repository 
+first we should add that file in staging environment by using below command
+
+$git add filename
+
+once we add the file to staging area,we should check the status of file using below command
+
+$git status
+
+command to add many file to staging environment 
+
+$git add -all or $git add -A
+
+
+now all file are ready to commit 
+
