@@ -1,0 +1,21 @@
+branch:
+new verison of main repository
+uses:
+Branches allow you to work on different parts of a project without impacting the main branch.
+When the work is complete, a branch can be merged with the main project.You can even switch between branches and work on different projects without them interfering with each other.
+
+command for creating new branch:
+
+$git branch branchname
+
+to check avouve comnmand is succesfully runed,we use below command
+
+$git branch 
+
+command to switch from one branch to onather branch
+
+$git checkout branchname
+
+command to create emergency branch
+
+$git checkout -b emergency-fix (directly created new branch and switch to that branch from current branch)
