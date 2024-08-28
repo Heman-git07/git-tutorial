@@ -1,0 +1,8 @@
+command to commit the files in staging environment 
+commit means to transfer the file to local git repository from staging environment
+
+$git commit -m "commit messeges"
+
+to view the history of commits we use below command
+
+$git log
