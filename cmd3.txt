@@ -1,0 +1,7 @@
+to know about number of files in current directory,we use below command
+
+ls
+
+command to know about the branch information,staged changes,unstaged changes and untracked files
+
+git status
