@@ -1,0 +1,8 @@
+command to merge created branch to main master branch
+before that we switch to main master branch by using following commands
+
+$git checkout master
+
+and then write below command to merge the created branch with main branch
+
+$git merge createdbranch name
