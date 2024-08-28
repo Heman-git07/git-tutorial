@@ -1,0 +1,10 @@
+commands for make new directory
+
+1.mkdir projctfolder
+
+commands for change directory
+
+1.cd projectfolder
+
+once we navigated to correct folder,we should inialize git by following commands
+1.git init 
