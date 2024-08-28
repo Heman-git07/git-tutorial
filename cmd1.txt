@@ -1,0 +1,4 @@
+configure git commands(used for git to know about us)
+
+1.git config --global user.name "Heman-git07"
+2.git config --global user.email "heman28102002@gmailcom"
